@@ -1,14 +1,14 @@
 protocolo http
 FONTE : https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol
-RESPONSAVEL PELA COMUNICAÇÃO DAS API
+RESPONSAVEL PELA COMUNICAï¿½ï¿½O DAS API
 REQUESTS
 RESPONSE
 
 O QUE SER CONTROLADO COM http
 CACHE DE DADOS
-AUTENTICAÇÃO
+AUTENTICAï¿½ï¿½O
 PROXY
-SESÕES
+SESï¿½ES
 
 
 METODOS HTTP 
@@ -25,9 +25,14 @@ EXCLUIR
 
 
 GET URL+URI
-uri é a descrição apos ao 
+uri ï¿½ a descriï¿½ï¿½o apos ao 
 
-NOTAÇÃO JSON
+NOTAï¿½ï¿½O JSON
+
+
+
+
+
 
 
 
