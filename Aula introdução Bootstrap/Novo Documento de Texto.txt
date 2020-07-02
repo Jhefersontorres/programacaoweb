@@ -1,0 +1,39 @@
+protocolo http
+FONTE : https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+RESPONSAVEL PELA COMUNICA��O DAS API
+REQUESTS
+RESPONSE
+
+O QUE SER CONTROLADO COM http
+CACHE DE DADOS
+AUTENTICA��O
+PROXY
+SES�ES
+
+
+METODOS HTTP 
+
+GET 	200-OK
+PEGAR - OU SEJA PERGAR DADOS
+POST	400-BAD REQUEST
+POSTAR
+PUT	404-NOT FOUND
+COLOCAR
+DELETE	405-METHOD NOT ALLAWED
+EXCLUIR
+
+
+
+GET URL+URI
+uri � a descri��o apos ao 
+
+NOTA��O JSON
+
+
+
+
+
+
+
+
+baixar postman
